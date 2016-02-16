@@ -1,4 +1,4 @@
-<!-- <img width=443 src="readme-images/PROJECT_NAME-logo.png" alt="BonMot Logo" /> -->
+<!-- <img width=443 src="readme-images/PROJECT_NAME-logo.png" alt="PROJECT_NAME Logo" /> -->
 
 <!-- iOS badges
 [![CI Status](http://img.shields.io/travis/Raizlabs/PROEJCT_NAME.svg?style=flat)](https://travis-ci.org/Raizlabs/PROJECT_NAME)
